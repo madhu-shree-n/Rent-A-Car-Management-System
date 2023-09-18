@@ -1,0 +1,5 @@
+Car Name: Toyota Innova
+Fuel Type: Diesel
+Engine Capacity: 2494 cc
+ARAI Mileage: 12.99 kmpl
+Power: 100.57 BHP @ 3600 rpm

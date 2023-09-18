@@ -1,0 +1,5 @@
+Car Name: Maruti Swift
+Fuel Type: Petrol
+Engine Capacity: 1197 cc
+ARAI Mileage: 23.76 kmpl
+Power: 88.50 BHP @ 6000 rpm

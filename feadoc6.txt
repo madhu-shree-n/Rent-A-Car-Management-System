@@ -1,0 +1,5 @@
+Car Name: Toyota Fortuner
+Fuel Type: Diesel
+Engine Capacity: 2755 cc
+ARAI Mileage: 8.0 kmpl
+Power: 500 NM @ 1600-2800 rpm

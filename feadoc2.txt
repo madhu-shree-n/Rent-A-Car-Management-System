@@ -1,0 +1,5 @@
+Car Name:  Maruti Zen Estilo
+Fuel Type: Petrol
+Engine Capacity: 1061 cc
+ARAI Mileage: 18.2 kmpl
+Max Torque: 84 NM @ 3500rpm

@@ -1,0 +1,5 @@
+Car Name: Maruti Baleno
+Fuel Type: Petrol
+Engine Capacity: 1197 cc
+ARAI Mileage: 22.94 kmpl
+Power: 88.50 BHP @ 6000 rpm

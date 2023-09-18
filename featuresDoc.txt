@@ -1,0 +1,35 @@
+Car Name: Maruti Alto 800
+Fuel Type: Petrol
+Engine Capacity: 796 cc
+Engine Type: F8D Petrol Engine
+Power: 49 PS @ 6000 rpm
+
+Car Name:  Maruti Zen Estilo
+Fuel Type: Petrol
+Engine Capacity: 1061 cc
+ARAI Mileage: 18.2 kmpl
+Max Torque: 84 NM @ 3500rpm
+
+Car Name: Maruti Swift
+Fuel Type: Petrol
+Engine Capacity: 1197 cc
+ARAI Mileage: 23.76 kmpl
+Power: 88.50 BHP @ 6000 rpm
+
+Car Name: Maruti Baleno
+Fuel Type: Petrol
+Engine Capacity: 1197 cc
+ARAI Mileage: 22.94 kmpl
+Power: 88.50 BHP @ 6000 rpm
+
+Car Name: Toyota Innova
+Fuel Type: Diesel
+Engine Capacity: 2494 cc
+ARAI Mileage: 12.99 kmpl
+Power: 100.57 BHP @ 3600 rpm
+
+Car Name: Toyota Fortuner
+Fuel Type: Diesel
+Engine Capacity: 2755 cc
+ARAI Mileage: 8.0 kmpl
+Power: 500 NM @ 1600-2800 rpm
